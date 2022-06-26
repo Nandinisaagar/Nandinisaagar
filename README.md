@@ -1,4 +1,4 @@
-<p align="center">Heya Folks !! I'm Nandini Saagar.<p/>
+<h3 align="center">Heya Folks !! I'm Nandini Saagar.<h3/>
 <p align="center">Undergraduate Student at IIT(BHU), Varanasi. <p/>
  <p align="center">I’ve always been interested in exploring my limits and testing my abilities, I’m also passionate about Open source.
 <p/>
