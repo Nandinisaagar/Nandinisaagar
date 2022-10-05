@@ -5,7 +5,7 @@
 <p align="center">
     <img width="400" src="https://github.com/Nandinisaagar/Test/blob/main/hey.gif">
 </p>
-Undergrad at IIT(BHU), Varanasi. Admirer of new technologies and tech enthusiast. I consider myself as a highly inquisitive person who wants to learn everything about subject that has captured my interest. Apart from being a computer buff, I enjoy bingeing on shows. Am currently working on improving my tech stack and revisiting things I've already completed, also am learning mern stack and next.Js. 
+Undergrad at IIT(BHU), Varanasi. Admirer of new technologies and tech enthusiast. I consider myself as a highly inquisitive person who wants to learn everything about the subject that has captured my interest. Apart from being a computer buff, I enjoy bingeing on shows. Am currently working on improving my tech stack and revisiting things I've already completed, also am learning mern stack and next.Js. 
 
 ### :star: My Github Activity Stats:
 
