@@ -13,6 +13,5 @@ Undergrad at IIT(BHU), Varanasi. Admirer of new technologies and tech enthusiast
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Nandinisaagar&theme=dark" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nandinisaagar)
 
 
